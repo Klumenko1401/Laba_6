@@ -10,6 +10,8 @@ namespace Laba_6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine((0.3 * Math.Pow(5.0, 2) - 15.0) / (3.5 + Math.Pow(2.0, 2)));
+            Console.ReadKey();
         }
     }
 }
